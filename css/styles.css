@@ -73,6 +73,23 @@ button {
   color: #404bbf;
 }
 
+/*Header*/
+
+.menu-item {
+  color: #2e2f42;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+.menu-item:hover,
+.menu-item:focus {
+  color: #404bbf;
+}
+
 /*Adress*/
 
 .page-address {
