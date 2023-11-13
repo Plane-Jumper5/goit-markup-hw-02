@@ -24,6 +24,7 @@ button {
   cursor: pointer;
 }
 /*Logotype*/
+
 .logo {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
@@ -31,7 +32,7 @@ button {
   font-style: normal;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
@@ -73,6 +74,10 @@ button {
 }
 
 /*Adress*/
+
+.page-address {
+  font-style: normal;
+}
 
 .menu-item {
   font-size: 16px;
