@@ -43,35 +43,34 @@ body {
   color: #404bbf;
 }
 
-.page-address {
-  font-family: "Roboto", sans-serif;
+/*Adress*/
+
+.menu-item {
   font-size: 16px;
-  font-style: normal;
+
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+}
+
+.menu-item:hover,
+.menu-item:focus {
+  color: #404bbf;
 }
 
 .menu-link link {
-  color: #434455;
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02;
+  color: #434455;
 }
 
-.section-top {
-  font-family: "Roboto", sans-serif;
-  text-align: center;
-  font-size: 56px;
-  font-weight: 700;
-  line-height: 1.07;
-  letter-spacing: 0.02em;
-  background: #2e2f42;
-  color: #fff;
+.menu-link link:hover,
+.menu-link link:focus {
+  color: #404bbf;
 }
 
 /*HERO*/
