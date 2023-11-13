@@ -21,8 +21,10 @@ body {
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color: #2e2f42;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
+
 .menu-link {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -31,6 +33,16 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
+.logo-link {
+  color: #2e2f42;
+}
+
+.logo-link:hover,
+.logo-link:focus {
+  color: #404bbf;
+}
+
 .page-address {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
