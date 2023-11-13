@@ -23,17 +23,37 @@ li {
 button {
   cursor: pointer;
 }
-
+/*Logotype*/
 .logo {
-  font-family: "Raleway", sans-serif;
+  color: #4d5ae5;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
+  font-style: normal;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.54px;
   text-transform: uppercase;
-  color: #4d5ae5;
 }
 
+.logo-link {
+  color: #2e2f42;
+}
+
+.logo-link:hover,
+.logo-link:focus {
+  color: #404bbf;
+}
+
+.text-logo {
+  color: #2e2f42;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
 .menu-link {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
