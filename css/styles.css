@@ -5,14 +5,23 @@
 .link {
   text-decoration: none;
 }
-button {
-  cursor: pointer;
-}
 
 body {
   font-family: Roboto, sans-serif;
   background-color: #ffffff;
   color: #434455;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
 }
 
 .logo {
