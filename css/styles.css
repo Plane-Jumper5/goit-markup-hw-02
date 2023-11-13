@@ -108,7 +108,7 @@ button {
   color: #404bbf;
 }
 
-.menu-link link {
+.menu-link-link {
   color: #434455;
   font-family: Roboto;
   font-size: 16px;
@@ -118,8 +118,8 @@ button {
   letter-spacing: 0.02px;
 }
 
-.menu-link link:hover,
-.menu-link link:focus {
+.menu-link-link:hover,
+.menu-link-link:focus {
   color: #404bbf;
 }
 
