@@ -9,6 +9,12 @@ button {
   cursor: pointer;
 }
 
+body {
+  font-family: Roboto, sans-serif;
+  background-color: #ffffff;
+  color: #434455;
+}
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
