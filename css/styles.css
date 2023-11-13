@@ -50,9 +50,36 @@ body {
   background: #2e2f42;
   color: #fff;
 }
-.hero-button {
-  background: #4d5ae5;
+
+/*HERO*/
+.hero-section {
+  background-color: #2e2f42;
+}
+
+.section-top {
   color: #fff;
+  text-align: center;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+}
+
+.hero-button {
+  background-color: #4d5ae5;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
+  cursor: pointer;
 }
 .section-item {
   font-family: "Roboto", sans-serif;
