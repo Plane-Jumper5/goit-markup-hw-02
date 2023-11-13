@@ -172,22 +172,23 @@ body {
   color: #434455;
 }
 /*footer*/
-.bottom-section {
+
+.end {
   background-color: #2e2f42;
 }
 
-.section-footer-logo {
+.end-logo {
   color: #f4f4fd;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.32em;
   text-transform: uppercase;
 }
 
-.bottom-text {
+.end-text {
   color: #f4f4fd;
   font-family: Roboto;
   font-size: 16px;
