@@ -95,7 +95,7 @@ button {
 .page-address {
   font-style: normal;
 }
-.menu-item {
+.logo-link {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -103,8 +103,8 @@ button {
   color: #434455;
 }
 
-.menu-item:hover,
-.menu-item:focus {
+.logo-link:hover,
+.logo-link:focus {
   color: #404bbf;
 }
 
